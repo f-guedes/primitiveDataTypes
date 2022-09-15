@@ -22,9 +22,7 @@ public class Operators {
 		System.out.println("Next year, how old will you be?");
 		age = age +1;
 		System.out.println(age);
-		
-
-		
+			
 		
 	}
 
